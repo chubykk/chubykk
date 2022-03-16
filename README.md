@@ -4,6 +4,7 @@
 
 ---------------------------------------------------
 
-📚 I'm an Avionics Technician student in ImpaTRQ
+* 📚 I'm an Avionics Technician student in ImpaTRQ
+* 🌱 I’m currently learning C and C++
 
-🌱 I’m currently learning C and C++
+<a heref="https://www.instagram.com/brunoo.colombo" target="_blank"><cing src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
