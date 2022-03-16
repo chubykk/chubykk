@@ -7,6 +7,10 @@
 * 🎓 I'm an Avionics Technician student in ImpaTRQ
 * 🌱 I’m currently learning C and C++
 
+
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=chubykk&theme=blue-green"/>
+
+
 -----------------------------------------------------
 
 ### 📲 Connect with me:
